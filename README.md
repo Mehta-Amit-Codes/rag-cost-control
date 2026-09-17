@@ -1,5 +1,7 @@
 # RAG Cost Control Layer
 
+[![Diagram](https://img.shields.io/badge/gitdiagram-view%20architecture-blue)](https://gitdiagram.com/Mehta-Amit-Codes/rag-cost-control)
+
 Reference implementation of the "Production RAG with Caching & Cost
 Controls" blueprint: semantic caching, tiered (BM25 + vector) retrieval,
 model routing/cascade with confidence-based escalation, and a cost/latency
